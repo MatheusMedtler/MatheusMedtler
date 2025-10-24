@@ -3,7 +3,7 @@
 <div align="center">
 
 <img align="center" alt="Matheus-Js" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img align="center" alt="Matheus-Ts" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> <img align="center" alt="Matheus-HTML" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img align="center" alt="Matheus-CSS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> </div>
-<div align="right"> <img src="https://i.pinimg.com/originals/9d/25/a6/9d25a640dc99c6c8aa791e248149441c.gif" width="200" alt="Coding gif"> </div>
+<div align="justify"> <img src="https://i.pinimg.com/originals/9d/25/a6/9d25a640dc99c6c8aa791e248149441c.gif" width="200" alt="Coding gif"> </div>
 <div align="center">
 
 <a href="#"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
